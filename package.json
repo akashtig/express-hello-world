@@ -1,0 +1,22 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashtig/express-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashtig/express-hello-world/issues"
+  },
+  "homepage": "https://github.com/akashtig/express-hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
